@@ -257,3 +257,18 @@
 [Thu Mar 26 08:54:58 2026] 127.0.0.1:58251 Accepted
 [Thu Mar 26 08:54:58 2026] 127.0.0.1:58251 [200]: GET /api/form-metadata
 [Thu Mar 26 08:54:58 2026] 127.0.0.1:58251 Closing
+[Thu Mar 26 08:57:50 2026] 127.0.0.1:64478 Accepted
+[Thu Mar 26 08:57:50 2026] 127.0.0.1:64478 [200]: GET /
+[Thu Mar 26 08:57:50 2026] 127.0.0.1:64478 Closing
+[Thu Mar 26 08:57:50 2026] 127.0.0.1:53894 Accepted
+[Thu Mar 26 08:57:50 2026] 127.0.0.1:53894 [200]: GET /assets/app.css
+[Thu Mar 26 08:57:50 2026] 127.0.0.1:53894 Closing
+[Thu Mar 26 08:57:50 2026] 127.0.0.1:51360 Accepted
+[Thu Mar 26 08:57:50 2026] 127.0.0.1:51360 [200]: GET /assets/app.js
+[Thu Mar 26 08:57:50 2026] 127.0.0.1:51360 Closing
+[Thu Mar 26 08:57:50 2026] 127.0.0.1:50091 Accepted
+[Thu Mar 26 08:57:50 2026] 127.0.0.1:50091 [200]: GET /api/form-metadata
+[Thu Mar 26 08:57:50 2026] 127.0.0.1:50091 Closing
+[Thu Mar 26 08:58:01 2026] 127.0.0.1:49616 Accepted
+[Thu Mar 26 08:58:02 2026] 127.0.0.1:49616 [201]: POST /api/facturas-proveedores/import
+[Thu Mar 26 08:58:02 2026] 127.0.0.1:49616 Closing
