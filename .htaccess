@@ -1,0 +1,10 @@
+RewriteEngine On
+
+# Sirve assets y ficheros públicos desde /public sin exigir cambiar el document root.
+RewriteRule ^assets/(.*)$ public/assets/$1 [L]
+RewriteRule ^views/(.*)$ public/views/$1 [L]
+
+# Si no existe un fichero o carpeta real en la raíz, delega en el front controller público.
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ public/index.php [QSA,L]

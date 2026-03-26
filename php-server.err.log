@@ -1,0 +1,259 @@
+[Thu Mar 26 08:15:20 2026] PHP 8.3.4 Development Server (http://127.0.0.1:8000) started
+[Thu Mar 26 08:15:29 2026] 127.0.0.1:50624 Accepted
+[Thu Mar 26 08:15:30 2026] Successfully enqueued document with job ID: 9ff28d8f-8e46-4e5e-9c39-466e1b029e06
+[Thu Mar 26 08:15:32 2026] Polling server for parsing result with job ID: 9ff28d8f-8e46-4e5e-9c39-466e1b029e06. Attempt number 1 of 80. Job status: Processing
+[Thu Mar 26 08:15:34 2026] Polling server for parsing result with job ID: 9ff28d8f-8e46-4e5e-9c39-466e1b029e06. Attempt number 2 of 80. Job status: Processing
+[Thu Mar 26 08:15:35 2026] Polling server for parsing result with job ID: 9ff28d8f-8e46-4e5e-9c39-466e1b029e06. Attempt number 3 of 80. Job status: Processing
+[Thu Mar 26 08:15:37 2026] Polling server for parsing result with job ID: 9ff28d8f-8e46-4e5e-9c39-466e1b029e06. Attempt number 4 of 80. Job status: Processing
+[Thu Mar 26 08:15:39 2026] Polling server for parsing result with job ID: 9ff28d8f-8e46-4e5e-9c39-466e1b029e06. Attempt number 5 of 80. Job status: Processing
+[Thu Mar 26 08:15:41 2026] Polling server for parsing result with job ID: 9ff28d8f-8e46-4e5e-9c39-466e1b029e06. Attempt number 6 of 80. Job status: Processing
+[Thu Mar 26 08:15:43 2026] 127.0.0.1:50624 [200]: POST /api/facturas-proveedores/preview
+[Thu Mar 26 08:15:43 2026] 127.0.0.1:50624 Closing
+[Thu Mar 26 08:15:43 2026] 127.0.0.1:50628 Accepted
+[Thu Mar 26 08:15:43 2026] 127.0.0.1:50628 Invalid request (Se ha forzado la interrupción de una conexión existente por el host remoto)
+[Thu Mar 26 08:15:43 2026] 127.0.0.1:50628 Closing
+[Thu Mar 26 08:16:01 2026] 127.0.0.1:63780 Accepted
+[Thu Mar 26 08:16:01 2026] 127.0.0.1:65354 Accepted
+[Thu Mar 26 08:16:01 2026] 127.0.0.1:63780 [200]: GET /
+[Thu Mar 26 08:16:01 2026] 127.0.0.1:63780 Closing
+[Thu Mar 26 08:16:01 2026] 127.0.0.1:65354 [200]: GET /assets/app.css
+[Thu Mar 26 08:16:01 2026] 127.0.0.1:65354 Closing
+[Thu Mar 26 08:16:01 2026] 127.0.0.1:64806 Accepted
+[Thu Mar 26 08:16:01 2026] 127.0.0.1:64806 [200]: GET /assets/app.js
+[Thu Mar 26 08:16:01 2026] 127.0.0.1:64806 Closing
+[Thu Mar 26 08:16:01 2026] 127.0.0.1:59525 Accepted
+[Thu Mar 26 08:16:02 2026] 127.0.0.1:59525 [200]: GET /api/form-metadata
+[Thu Mar 26 08:16:02 2026] 127.0.0.1:59525 Closing
+[Thu Mar 26 08:16:21 2026] 127.0.0.1:61861 Accepted
+[Thu Mar 26 08:16:21 2026] 127.0.0.1:49908 Accepted
+[Thu Mar 26 08:16:21 2026] 127.0.0.1:61861 [200]: GET /
+[Thu Mar 26 08:16:21 2026] 127.0.0.1:61861 Closing
+[Thu Mar 26 08:16:21 2026] 127.0.0.1:49908 [200]: GET /assets/app.css
+[Thu Mar 26 08:16:21 2026] 127.0.0.1:49908 Closing
+[Thu Mar 26 08:16:21 2026] 127.0.0.1:55947 Accepted
+[Thu Mar 26 08:16:21 2026] 127.0.0.1:55947 [200]: GET /assets/app.js
+[Thu Mar 26 08:16:21 2026] 127.0.0.1:55947 Closing
+[Thu Mar 26 08:16:21 2026] 127.0.0.1:55818 Accepted
+[Thu Mar 26 08:16:21 2026] 127.0.0.1:55818 [200]: GET /api/form-metadata
+[Thu Mar 26 08:16:21 2026] 127.0.0.1:55818 Closing
+[Thu Mar 26 08:16:28 2026] 127.0.0.1:59760 Accepted
+[Thu Mar 26 08:16:28 2026] Successfully enqueued document with job ID: 05eadbd0-dac5-4c87-823d-0dc3ff8e8316
+[Thu Mar 26 08:16:30 2026] Polling server for parsing result with job ID: 05eadbd0-dac5-4c87-823d-0dc3ff8e8316. Attempt number 1 of 80. Job status: Processing
+[Thu Mar 26 08:16:32 2026] Polling server for parsing result with job ID: 05eadbd0-dac5-4c87-823d-0dc3ff8e8316. Attempt number 2 of 80. Job status: Processing
+[Thu Mar 26 08:16:34 2026] Polling server for parsing result with job ID: 05eadbd0-dac5-4c87-823d-0dc3ff8e8316. Attempt number 3 of 80. Job status: Processing
+[Thu Mar 26 08:16:35 2026] Polling server for parsing result with job ID: 05eadbd0-dac5-4c87-823d-0dc3ff8e8316. Attempt number 4 of 80. Job status: Processing
+[Thu Mar 26 08:16:37 2026] 127.0.0.1:59760 [200]: POST /api/facturas-proveedores/preview
+[Thu Mar 26 08:16:37 2026] 127.0.0.1:59760 Closing
+[Thu Mar 26 08:16:46 2026] 127.0.0.1:59984 Accepted
+[Thu Mar 26 08:16:46 2026] Successfully enqueued document with job ID: 1264dbc1-f293-4b0d-8835-97411f3c3511
+[Thu Mar 26 08:16:48 2026] Polling server for parsing result with job ID: 1264dbc1-f293-4b0d-8835-97411f3c3511. Attempt number 1 of 80. Job status: Processing
+[Thu Mar 26 08:16:50 2026] Polling server for parsing result with job ID: 1264dbc1-f293-4b0d-8835-97411f3c3511. Attempt number 2 of 80. Job status: Processing
+[Thu Mar 26 08:16:52 2026] Polling server for parsing result with job ID: 1264dbc1-f293-4b0d-8835-97411f3c3511. Attempt number 3 of 80. Job status: Processing
+[Thu Mar 26 08:16:54 2026] Polling server for parsing result with job ID: 1264dbc1-f293-4b0d-8835-97411f3c3511. Attempt number 4 of 80. Job status: Processing
+[Thu Mar 26 08:16:56 2026] 127.0.0.1:59984 [422]: POST /api/facturas-proveedores/import
+[Thu Mar 26 08:16:56 2026] 127.0.0.1:59984 Closing
+[Thu Mar 26 08:17:01 2026] 127.0.0.1:53145 Accepted
+[Thu Mar 26 08:17:01 2026] Successfully enqueued document with job ID: 260b1a08-faa8-42db-8954-3b473696652a
+[Thu Mar 26 08:17:03 2026] Polling server for parsing result with job ID: 260b1a08-faa8-42db-8954-3b473696652a. Attempt number 1 of 80. Job status: Processing
+[Thu Mar 26 08:17:05 2026] Polling server for parsing result with job ID: 260b1a08-faa8-42db-8954-3b473696652a. Attempt number 2 of 80. Job status: Processing
+[Thu Mar 26 08:17:07 2026] Polling server for parsing result with job ID: 260b1a08-faa8-42db-8954-3b473696652a. Attempt number 3 of 80. Job status: Processing
+[Thu Mar 26 08:17:09 2026] Polling server for parsing result with job ID: 260b1a08-faa8-42db-8954-3b473696652a. Attempt number 4 of 80. Job status: Processing
+[Thu Mar 26 08:17:10 2026] Polling server for parsing result with job ID: 260b1a08-faa8-42db-8954-3b473696652a. Attempt number 5 of 80. Job status: Processing
+[Thu Mar 26 08:17:13 2026] 127.0.0.1:53145 [201]: POST /api/facturas-proveedores/import
+[Thu Mar 26 08:17:13 2026] 127.0.0.1:53145 Closing
+[Thu Mar 26 08:24:38 2026] 127.0.0.1:65307 Accepted
+[Thu Mar 26 08:24:38 2026] 127.0.0.1:65307 [200]: GET /
+[Thu Mar 26 08:24:38 2026] 127.0.0.1:65307 Closing
+[Thu Mar 26 08:24:38 2026] 127.0.0.1:65308 Accepted
+[Thu Mar 26 08:24:38 2026] 127.0.0.1:65308 [200]: GET /assets/app.css
+[Thu Mar 26 08:24:38 2026] 127.0.0.1:65308 Closing
+[Thu Mar 26 08:24:40 2026] 127.0.0.1:51659 Accepted
+[Thu Mar 26 08:24:40 2026] 127.0.0.1:51659 [200]: GET /
+[Thu Mar 26 08:24:40 2026] 127.0.0.1:51659 Closing
+[Thu Mar 26 08:24:40 2026] 127.0.0.1:50630 Accepted
+[Thu Mar 26 08:24:40 2026] 127.0.0.1:50630 [200]: GET /assets/app.css
+[Thu Mar 26 08:24:40 2026] 127.0.0.1:50630 Closing
+[Thu Mar 26 08:24:40 2026] 127.0.0.1:61019 Accepted
+[Thu Mar 26 08:24:40 2026] 127.0.0.1:61019 [200]: GET /assets/app.js
+[Thu Mar 26 08:24:40 2026] 127.0.0.1:61019 Closing
+[Thu Mar 26 08:24:40 2026] 127.0.0.1:61601 Accepted
+[Thu Mar 26 08:24:40 2026] 127.0.0.1:61601 [200]: GET /api/form-metadata
+[Thu Mar 26 08:24:40 2026] 127.0.0.1:61601 Closing
+[Thu Mar 26 08:25:03 2026] 127.0.0.1:58805 Accepted
+[Thu Mar 26 08:25:03 2026] 127.0.0.1:58805 [200]: GET /
+[Thu Mar 26 08:25:03 2026] 127.0.0.1:58805 Closing
+[Thu Mar 26 08:25:03 2026] 127.0.0.1:53985 Accepted
+[Thu Mar 26 08:25:03 2026] 127.0.0.1:53985 [200]: GET /assets/app.css
+[Thu Mar 26 08:25:03 2026] 127.0.0.1:59770 Accepted
+[Thu Mar 26 08:25:03 2026] 127.0.0.1:59770 [200]: GET /assets/app.js
+[Thu Mar 26 08:25:03 2026] 127.0.0.1:53985 Closing
+[Thu Mar 26 08:25:03 2026] 127.0.0.1:59770 Closing
+[Thu Mar 26 08:25:03 2026] 127.0.0.1:57707 Accepted
+[Thu Mar 26 08:25:04 2026] 127.0.0.1:57707 [200]: GET /api/form-metadata
+[Thu Mar 26 08:25:04 2026] 127.0.0.1:57707 Closing
+[Thu Mar 26 08:25:18 2026] 127.0.0.1:59309 Accepted
+[Thu Mar 26 08:25:18 2026] Successfully enqueued document with job ID: 236c773f-795b-4a08-b1be-256a27115098
+[Thu Mar 26 08:25:21 2026] Polling server for parsing result with job ID: 236c773f-795b-4a08-b1be-256a27115098. Attempt number 1 of 80. Job status: Processing
+[Thu Mar 26 08:25:22 2026] Polling server for parsing result with job ID: 236c773f-795b-4a08-b1be-256a27115098. Attempt number 2 of 80. Job status: Processing
+[Thu Mar 26 08:25:24 2026] Polling server for parsing result with job ID: 236c773f-795b-4a08-b1be-256a27115098. Attempt number 3 of 80. Job status: Processing
+[Thu Mar 26 08:25:26 2026] Polling server for parsing result with job ID: 236c773f-795b-4a08-b1be-256a27115098. Attempt number 4 of 80. Job status: Processing
+[Thu Mar 26 08:25:28 2026] Polling server for parsing result with job ID: 236c773f-795b-4a08-b1be-256a27115098. Attempt number 5 of 80. Job status: Processing
+[Thu Mar 26 08:25:30 2026] 127.0.0.1:59309 [201]: POST /api/facturas-proveedores/import
+[Thu Mar 26 08:25:30 2026] 127.0.0.1:59309 Closing
+[Thu Mar 26 08:25:52 2026] 127.0.0.1:55994 Accepted
+[Thu Mar 26 08:25:53 2026] Successfully enqueued document with job ID: eeed8355-61f2-43af-98a2-d8c95cfe4853
+[Thu Mar 26 08:25:55 2026] Polling server for parsing result with job ID: eeed8355-61f2-43af-98a2-d8c95cfe4853. Attempt number 1 of 80. Job status: Processing
+[Thu Mar 26 08:25:57 2026] Polling server for parsing result with job ID: eeed8355-61f2-43af-98a2-d8c95cfe4853. Attempt number 2 of 80. Job status: Processing
+[Thu Mar 26 08:25:58 2026] Polling server for parsing result with job ID: eeed8355-61f2-43af-98a2-d8c95cfe4853. Attempt number 3 of 80. Job status: Processing
+[Thu Mar 26 08:26:00 2026] Polling server for parsing result with job ID: eeed8355-61f2-43af-98a2-d8c95cfe4853. Attempt number 4 of 80. Job status: Processing
+[Thu Mar 26 08:26:02 2026] Polling server for parsing result with job ID: eeed8355-61f2-43af-98a2-d8c95cfe4853. Attempt number 5 of 80. Job status: Processing
+[Thu Mar 26 08:26:04 2026] 127.0.0.1:55994 [200]: POST /api/facturas-proveedores/preview
+[Thu Mar 26 08:26:04 2026] 127.0.0.1:55994 Closing
+[Thu Mar 26 08:31:17 2026] 127.0.0.1:62891 Accepted
+[Thu Mar 26 08:31:18 2026] Successfully enqueued document with job ID: 31442dee-d3e6-48a1-a742-fe1a0544d97c
+[Thu Mar 26 08:31:20 2026] Polling server for parsing result with job ID: 31442dee-d3e6-48a1-a742-fe1a0544d97c. Attempt number 1 of 80. Job status: Processing
+[Thu Mar 26 08:31:22 2026] Polling server for parsing result with job ID: 31442dee-d3e6-48a1-a742-fe1a0544d97c. Attempt number 2 of 80. Job status: Processing
+[Thu Mar 26 08:31:24 2026] Polling server for parsing result with job ID: 31442dee-d3e6-48a1-a742-fe1a0544d97c. Attempt number 3 of 80. Job status: Processing
+[Thu Mar 26 08:31:26 2026] 127.0.0.1:62891 [200]: POST /api/facturas-proveedores/preview
+[Thu Mar 26 08:31:26 2026] 127.0.0.1:62891 Closing
+[Thu Mar 26 08:32:40 2026] 127.0.0.1:60947 Accepted
+[Thu Mar 26 08:32:40 2026] 127.0.0.1:54443 Accepted
+[Thu Mar 26 08:32:40 2026] 127.0.0.1:60947 [200]: GET /
+[Thu Mar 26 08:32:40 2026] 127.0.0.1:60947 Closing
+[Thu Mar 26 08:32:40 2026] 127.0.0.1:54443 [200]: GET /assets/app.css
+[Thu Mar 26 08:32:40 2026] 127.0.0.1:54443 Closing
+[Thu Mar 26 08:32:40 2026] 127.0.0.1:64500 Accepted
+[Thu Mar 26 08:32:40 2026] 127.0.0.1:64500 [200]: GET /assets/app.js
+[Thu Mar 26 08:32:40 2026] 127.0.0.1:64500 Closing
+[Thu Mar 26 08:32:40 2026] 127.0.0.1:50943 Accepted
+[Thu Mar 26 08:32:40 2026] 127.0.0.1:50943 [200]: GET /api/form-metadata
+[Thu Mar 26 08:32:40 2026] 127.0.0.1:50943 Closing
+[Thu Mar 26 08:33:33 2026] 127.0.0.1:64766 Accepted
+[Thu Mar 26 08:33:33 2026] 127.0.0.1:64766 [200]: POST /api/facturas-proveedores/preview
+[Thu Mar 26 08:33:33 2026] 127.0.0.1:64766 Closing
+[Thu Mar 26 08:33:46 2026] 127.0.0.1:55117 Accepted
+[Thu Mar 26 08:33:46 2026] 127.0.0.1:51865 Accepted
+[Thu Mar 26 08:33:46 2026] 127.0.0.1:55117 [200]: GET /
+[Thu Mar 26 08:33:46 2026] 127.0.0.1:55117 Closing
+[Thu Mar 26 08:33:46 2026] 127.0.0.1:51865 [200]: GET /assets/app.css
+[Thu Mar 26 08:33:46 2026] 127.0.0.1:51865 Closing
+[Thu Mar 26 08:33:46 2026] 127.0.0.1:55617 Accepted
+[Thu Mar 26 08:33:46 2026] 127.0.0.1:55617 [200]: GET /assets/app.js
+[Thu Mar 26 08:33:46 2026] 127.0.0.1:55617 Closing
+[Thu Mar 26 08:33:46 2026] 127.0.0.1:62628 Accepted
+[Thu Mar 26 08:33:46 2026] 127.0.0.1:62628 [200]: GET /api/form-metadata
+[Thu Mar 26 08:33:46 2026] 127.0.0.1:62628 Closing
+[Thu Mar 26 08:33:54 2026] 127.0.0.1:63245 Accepted
+[Thu Mar 26 08:33:54 2026] 127.0.0.1:63245 [200]: POST /api/facturas-proveedores/preview
+[Thu Mar 26 08:33:54 2026] 127.0.0.1:63245 Closing
+[Thu Mar 26 08:35:14 2026] 127.0.0.1:53257 Accepted
+[Thu Mar 26 08:35:14 2026] 127.0.0.1:53353 Accepted
+[Thu Mar 26 08:35:14 2026] 127.0.0.1:53257 [200]: GET /
+[Thu Mar 26 08:35:14 2026] 127.0.0.1:53257 Closing
+[Thu Mar 26 08:35:14 2026] 127.0.0.1:53353 [200]: GET /assets/app.css
+[Thu Mar 26 08:35:14 2026] 127.0.0.1:53353 Closing
+[Thu Mar 26 08:35:14 2026] 127.0.0.1:61263 Accepted
+[Thu Mar 26 08:35:14 2026] 127.0.0.1:61263 [200]: GET /assets/app.js
+[Thu Mar 26 08:35:14 2026] 127.0.0.1:61263 Closing
+[Thu Mar 26 08:35:14 2026] 127.0.0.1:63253 Accepted
+[Thu Mar 26 08:35:14 2026] 127.0.0.1:63253 [200]: GET /api/form-metadata
+[Thu Mar 26 08:35:14 2026] 127.0.0.1:63253 Closing
+[Thu Mar 26 08:35:31 2026] 127.0.0.1:61670 Accepted
+[Thu Mar 26 08:35:31 2026] 127.0.0.1:61670 [422]: POST /api/facturas-proveedores/import
+[Thu Mar 26 08:35:31 2026] 127.0.0.1:61670 Closing
+[Thu Mar 26 08:38:21 2026] 127.0.0.1:59465 Accepted
+[Thu Mar 26 08:38:21 2026] 127.0.0.1:51664 Accepted
+[Thu Mar 26 08:38:21 2026] 127.0.0.1:59465 [200]: GET /
+[Thu Mar 26 08:38:21 2026] 127.0.0.1:59465 Closing
+[Thu Mar 26 08:38:21 2026] 127.0.0.1:51664 [200]: GET /assets/app.css
+[Thu Mar 26 08:38:21 2026] 127.0.0.1:51664 Closing
+[Thu Mar 26 08:38:21 2026] 127.0.0.1:61758 Accepted
+[Thu Mar 26 08:38:21 2026] 127.0.0.1:61758 [200]: GET /assets/app.js
+[Thu Mar 26 08:38:21 2026] 127.0.0.1:61758 Closing
+[Thu Mar 26 08:38:21 2026] 127.0.0.1:56597 Accepted
+[Thu Mar 26 08:38:21 2026] 127.0.0.1:56597 [200]: GET /api/form-metadata
+[Thu Mar 26 08:38:21 2026] 127.0.0.1:56597 Closing
+[Thu Mar 26 08:38:37 2026] 127.0.0.1:49737 Accepted
+[Thu Mar 26 08:38:37 2026] 127.0.0.1:49737 [200]: POST /api/facturas-proveedores/preview
+[Thu Mar 26 08:38:37 2026] 127.0.0.1:49737 Closing
+[Thu Mar 26 08:38:43 2026] 127.0.0.1:65054 Accepted
+[Thu Mar 26 08:38:43 2026] 127.0.0.1:65054 [422]: POST /api/facturas-proveedores/import
+[Thu Mar 26 08:38:43 2026] 127.0.0.1:65054 Closing
+[Thu Mar 26 08:40:56 2026] 127.0.0.1:49456 Accepted
+[Thu Mar 26 08:40:56 2026] 127.0.0.1:57130 Accepted
+[Thu Mar 26 08:40:56 2026] 127.0.0.1:49456 [200]: GET /
+[Thu Mar 26 08:40:56 2026] 127.0.0.1:49456 Closing
+[Thu Mar 26 08:40:56 2026] 127.0.0.1:57130 [200]: GET /assets/app.css
+[Thu Mar 26 08:40:56 2026] 127.0.0.1:63176 Accepted
+[Thu Mar 26 08:40:56 2026] 127.0.0.1:63176 [200]: GET /assets/app.js
+[Thu Mar 26 08:40:56 2026] 127.0.0.1:57130 Closing
+[Thu Mar 26 08:40:56 2026] 127.0.0.1:63176 Closing
+[Thu Mar 26 08:40:56 2026] 127.0.0.1:52264 Accepted
+[Thu Mar 26 08:40:56 2026] 127.0.0.1:52264 [200]: GET /api/form-metadata
+[Thu Mar 26 08:40:56 2026] 127.0.0.1:52264 Closing
+[Thu Mar 26 08:41:07 2026] 127.0.0.1:61081 Accepted
+[Thu Mar 26 08:41:07 2026] 127.0.0.1:61081 [201]: POST /api/facturas-proveedores/import
+[Thu Mar 26 08:41:07 2026] 127.0.0.1:61081 Closing
+[Thu Mar 26 08:45:38 2026] 127.0.0.1:50625 Accepted
+[Thu Mar 26 08:45:38 2026] 127.0.0.1:57245 Accepted
+[Thu Mar 26 08:45:38 2026] 127.0.0.1:50625 [200]: GET /
+[Thu Mar 26 08:45:38 2026] 127.0.0.1:50625 Closing
+[Thu Mar 26 08:45:39 2026] 127.0.0.1:57245 [200]: GET /assets/app.css
+[Thu Mar 26 08:45:39 2026] 127.0.0.1:56767 Accepted
+[Thu Mar 26 08:45:39 2026] 127.0.0.1:56767 [200]: GET /assets/app.js
+[Thu Mar 26 08:45:39 2026] 127.0.0.1:57245 Closing
+[Thu Mar 26 08:45:39 2026] 127.0.0.1:56767 Closing
+[Thu Mar 26 08:45:39 2026] 127.0.0.1:64021 Accepted
+[Thu Mar 26 08:45:39 2026] 127.0.0.1:64021 [200]: GET /api/form-metadata
+[Thu Mar 26 08:45:39 2026] 127.0.0.1:64021 Closing
+[Thu Mar 26 08:46:35 2026] 127.0.0.1:62246 Accepted
+[Thu Mar 26 08:46:36 2026] 127.0.0.1:62246 [500]: POST /api/facturas-proveedores/import
+[Thu Mar 26 08:46:36 2026] 127.0.0.1:62246 Closing
+[Thu Mar 26 08:46:47 2026] 127.0.0.1:50716 Accepted
+[Thu Mar 26 08:46:47 2026] 127.0.0.1:50716 [500]: POST /api/facturas-proveedores/import
+[Thu Mar 26 08:46:47 2026] 127.0.0.1:50716 Closing
+[Thu Mar 26 08:49:26 2026] 127.0.0.1:64056 Accepted
+[Thu Mar 26 08:49:26 2026] 127.0.0.1:64056 [200]: GET /
+[Thu Mar 26 08:49:26 2026] 127.0.0.1:64056 Closing
+[Thu Mar 26 08:49:26 2026] 127.0.0.1:59760 Accepted
+[Thu Mar 26 08:49:26 2026] 127.0.0.1:59760 [200]: GET /assets/app.css
+[Thu Mar 26 08:49:26 2026] 127.0.0.1:59760 Closing
+[Thu Mar 26 08:49:26 2026] 127.0.0.1:60061 Accepted
+[Thu Mar 26 08:49:26 2026] 127.0.0.1:60061 [200]: GET /assets/app.js
+[Thu Mar 26 08:49:26 2026] 127.0.0.1:60061 Closing
+[Thu Mar 26 08:49:26 2026] 127.0.0.1:64290 Accepted
+[Thu Mar 26 08:49:26 2026] 127.0.0.1:64290 [200]: GET /api/form-metadata
+[Thu Mar 26 08:49:26 2026] 127.0.0.1:64290 Closing
+[Thu Mar 26 08:49:35 2026] 127.0.0.1:65051 Accepted
+[Thu Mar 26 08:49:35 2026] 127.0.0.1:65051 [200]: POST /api/facturas-proveedores/preview
+[Thu Mar 26 08:49:35 2026] 127.0.0.1:65051 Closing
+[Thu Mar 26 08:51:03 2026] 127.0.0.1:64879 Accepted
+[Thu Mar 26 08:51:03 2026] 127.0.0.1:50375 Accepted
+[Thu Mar 26 08:51:03 2026] 127.0.0.1:64879 [200]: GET /
+[Thu Mar 26 08:51:03 2026] 127.0.0.1:64879 Closing
+[Thu Mar 26 08:51:03 2026] 127.0.0.1:50375 [200]: GET /assets/app.css
+[Thu Mar 26 08:51:03 2026] 127.0.0.1:50375 Closing
+[Thu Mar 26 08:51:03 2026] 127.0.0.1:55880 Accepted
+[Thu Mar 26 08:51:03 2026] 127.0.0.1:55880 [200]: GET /assets/app.js
+[Thu Mar 26 08:51:03 2026] 127.0.0.1:55880 Closing
+[Thu Mar 26 08:51:03 2026] 127.0.0.1:58338 Accepted
+[Thu Mar 26 08:51:03 2026] 127.0.0.1:58338 [200]: GET /api/form-metadata
+[Thu Mar 26 08:51:03 2026] 127.0.0.1:58338 Closing
+[Thu Mar 26 08:51:12 2026] 127.0.0.1:61419 Accepted
+[Thu Mar 26 08:51:12 2026] 127.0.0.1:61419 [200]: POST /api/facturas-proveedores/preview
+[Thu Mar 26 08:51:12 2026] 127.0.0.1:61419 Closing
+[Thu Mar 26 08:51:54 2026] 127.0.0.1:65275 Accepted
+[Thu Mar 26 08:51:54 2026] 127.0.0.1:65275 [201]: POST /api/facturas-proveedores/import
+[Thu Mar 26 08:51:54 2026] 127.0.0.1:65275 Closing
+[Thu Mar 26 08:54:58 2026] 127.0.0.1:53908 Accepted
+[Thu Mar 26 08:54:58 2026] 127.0.0.1:53908 [200]: GET /
+[Thu Mar 26 08:54:58 2026] 127.0.0.1:53908 Closing
+[Thu Mar 26 08:54:58 2026] 127.0.0.1:59754 Accepted
+[Thu Mar 26 08:54:58 2026] 127.0.0.1:59754 [200]: GET /assets/app.css
+[Thu Mar 26 08:54:58 2026] 127.0.0.1:56387 Accepted
+[Thu Mar 26 08:54:58 2026] 127.0.0.1:56387 [200]: GET /assets/app.js
+[Thu Mar 26 08:54:58 2026] 127.0.0.1:59754 Closing
+[Thu Mar 26 08:54:58 2026] 127.0.0.1:56387 Closing
+[Thu Mar 26 08:54:58 2026] 127.0.0.1:58251 Accepted
+[Thu Mar 26 08:54:58 2026] 127.0.0.1:58251 [200]: GET /api/form-metadata
+[Thu Mar 26 08:54:58 2026] 127.0.0.1:58251 Closing
